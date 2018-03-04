@@ -17,7 +17,6 @@ use App\Models\UnitType\UnitType;
 use App\Exceptions\GeneralException;
 use App\Repositories\BaseRepository;
 
-
 /**
  * Class InventoryRepository.
  */
